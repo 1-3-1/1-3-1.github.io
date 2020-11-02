@@ -1,0 +1,39 @@
+---
+title: Categories
+date: 2013-12-24 23:30:09
+categories:
+- Foo
+- Bar
+- Baz
+---
+
+
+[ML] 1 머신러닝의 기초 
+======================
+
+
+[](#머신러닝이란 "머신러닝이란?")머신러닝이란?
+----------------------------------------------
+
+시스템이 스스로 학습하여 어떤 결과를 예측 할 수 있도록 하는 기술
+
+[](#Supervised-learning "Supervised learning")Supervised learning 
+-----------------------------------------------------------------
+
+정해져있는 데이타 (training set) 를 가지고 학습을 하는 학습법
+
+*ex) 고양이 사진 모아놓고 고양이 분석*
+
+1.  Regression\
+    0 \~ 100점 예상
+2.  Binary Classification\
+    패스냐 논패스냐 하는
+3.  Multi-lable Classification\
+    A B C D 등급
+
+[](#Unsupervised-learing "Unsupervised learing")Unsupervised learing 
+--------------------------------------------------------------------
+
+데이터를 보고 스스로 학습하는 학습법.
+
+
