@@ -5,6 +5,8 @@ categories:
 - Foo
 - Bar
 - Baz
+tags:
+- ML
 ---
 
 
